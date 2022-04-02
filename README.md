@@ -1,3 +1,3 @@
 # Practicing React ❤️
 
-A Complete Practice Project
+- A Complete Practice Project
